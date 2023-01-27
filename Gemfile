@@ -12,7 +12,7 @@ gem 'jscrollpane-rails'
 gem 'dotiw'
 gem 'axlsx', '2.1.0.pre'
 gem 'axlsx_rails'
-gem 'jquery-ui-rails', '~>5.0.5'
+gem 'jquery-ui-rails', '~>6.0.0'
 
 gem 'sass', '~>3.4.21'
 gem 'ruby-ntlm'
